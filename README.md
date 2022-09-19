@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Leetcode Stats](https://leetcode.com/shinchen/)
 <!--
 **Shin-C/Shin-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
