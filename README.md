@@ -1,5 +1,6 @@
 ### Hi there 👋
-<!-- ![Leetcode Stats](https://leetcode.com/shinchen/) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/shinchen?theme=dark&font=K2D&ext=activity)
+
 <!--
 **Shin-C/Shin-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
